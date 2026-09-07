@@ -2,9 +2,18 @@
 
 ### Python Backend Developer | Automation | AI/ML
 
-I'm a Python developer focused on building backend applications, automation tools, web scraping solutions, and AI-powered applications.
+## 👨‍💻 About Me
 
-I enjoy turning real-world problems into practical software — from automated data collection and APIs to full-stack SaaS products and machine learning projects.
+I'm Călin — a Python backend developer passionate about building real-world software that solves practical problems.
+
+I specialize in **FastAPI**, **automation**, **web scraping**, **data processing**, and **AI-powered applications**. I enjoy designing clean backend architectures, creating efficient APIs, and automating workflows that save time and unlock new capabilities.
+
+I'm also the founder of **LeadAtlas**, a SaaS platform for business lead generation built with Python, FastAPI, SQLAlchemy, and Next.js. I love combining backend engineering with product thinking to build tools that people actually use.
+
+I’m currently expanding my expertise in **machine learning**, **PyTorch**, and **computer vision**, focusing on applying AI to real-world use cases.
+
+I thrive in **remote**, **async**, and **ownership-driven** environments where I can build, iterate, and deliver meaningful software.
+
 
 ---
 
