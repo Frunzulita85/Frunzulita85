@@ -120,13 +120,3 @@ I'm particularly interested in remote international opportunities and projects w
 Feel free to explore my repositories and projects.
 
 I'm always interested in building useful software, solving interesting problems, and collaborating on new projects.
-
-
----
-
-## 📫 Let's Connect
-
-Feel free to explore my repositories and projects.
-
-I'm always interested in building useful software, solving interesting problems, and collaborating on new projects.
-
