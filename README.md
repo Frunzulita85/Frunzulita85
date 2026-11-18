@@ -3,7 +3,7 @@
 ### Python Backend Developer | Automation | AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C4%83lin-frunz%C4%83-a99b26105/)
-[![Resume / CV](https://img.shields.io/badge/Download_CV-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Frunzulita85/Frunzulita85/blob/main/CV_Calin_Frunza.pdf)
+[![Resume / CV](https://img.shields.io/badge/Download_CV-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Y1e7_LX367o49p7SZVOsNSF9TzXEXaZr/view?usp=sharing)
 [![LeadAtlas](https://img.shields.io/badge/LeadAtlas.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.leadatlas.io/)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calinfrunza85@gmail.com)
 
@@ -127,5 +127,5 @@ I'm particularly interested in remote international opportunities and projects w
 Feel free to explore my repositories, check out my resume, or connect with me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C4%83lin-frunz%C4%83-a99b26105/)
-[![Resume / CV](https://img.shields.io/badge/View_Resume_(PDF)-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Frunzulita85/Frunzulita85/blob/main/CV_Calin_Frunza.pdf)
+[![Resume / CV](https://img.shields.io/badge/View_Resume_(PDF)-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Y1e7_LX367o49p7SZVOsNSF9TzXEXaZr/view?usp=sharing)
 [![Email](https://img.shields.io/badge/calinfrunza85@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calinfrunza85@gmail.com)
